@@ -26,11 +26,11 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         txv_proceso = (TextView) findViewById(R.id.tvw_proceso);
-        btn_0 = (Button) findViewById(R.id.btn_0);
+        btn_0 = (Button) findViewById(R.id.btn_0); //esto es un comentario probanr github
         btn_1 = (Button) findViewById(R.id.btn_1);
         btn_2 = (Button) findViewById(R.id.btn_2);
         btn_3 = (Button) findViewById(R.id.btn_3);
-        btn_4 = (Button) findViewById(R.id.btn_4);
+        btn_4 = (Button) findViewById(R.id.btn_4); //actualizacion
         btn_5 = (Button) findViewById(R.id.btn_5);
         btn_6 = (Button) findViewById(R.id.btn_6);
         btn_7 = (Button) findViewById(R.id.btn_7);
